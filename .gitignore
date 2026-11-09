@@ -1,0 +1,17 @@
+# Logs and diagnostics
+*.log
+*.reg
+*.tmp
+
+# PowerShell temporary files
+*.ps1xml
+*~
+
+# OS artifacts
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Migration backups
+*.migrated_old
+*.rollback_old
